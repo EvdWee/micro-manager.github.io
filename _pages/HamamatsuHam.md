@@ -79,7 +79,7 @@ using Hamamatsu, you will need to create a new hardware configuration
 using HamamatsuHam." %}
 
 Before configuring the camera, you will need to download and install a
-recent version of [DCAM-API](http://www.dcamapi.com/). Make sure to read
+recent version of [DCAM-API](https://www.hamamatsu.com/jp/en/product/cameras/software/driver-software.html). Make sure to read
 and follow the camera-specific instructions in the DCAM-API
 Compatibility Note provided on the same page.
 
